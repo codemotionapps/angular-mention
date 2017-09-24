@@ -1,0 +1,6 @@
+.travis.yml
+tests/
+src/
+ment.io/
+karma.conf.js
+gulpfile.js
